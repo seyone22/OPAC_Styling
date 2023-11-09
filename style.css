@@ -1,0 +1,15 @@
+#wrapper {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+}
+
+body {
+    background: #F3F4EF;
+}
+
+#header-region {
+    background: #361934;
+    width: 100vw;
+    height: 195px;
+}
